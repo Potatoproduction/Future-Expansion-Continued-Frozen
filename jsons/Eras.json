@@ -117,15 +117,6 @@
         "startingCulture": 0,
         "settlerPopulation": 1,
         "settlerBuildings": [
-            "Monument",
-            "Granary",
-            "Lighthouse",
-            "Market",
-            "Workshop",
-            "Amphitheater",
-            "Barracks",
-            "Library",
-            "Colosseum"
         ],
         "startingObsoleteWonders": [
             "Temple of Artemis",
