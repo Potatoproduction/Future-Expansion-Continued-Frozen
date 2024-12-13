@@ -109,13 +109,13 @@
     {
         "name": "Industrial era",
         "researchAgreementCost": 300,
-        "startingSettlerCount": 3,
-        "startingWorkerCount": 2,
-        "startingMilitaryUnitCount": 5,
+        "startingSettlerCount": 1,
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 0,
         "startingMilitaryUnit": "Musketman",
-        "startingGold": 100,
-        "startingCulture": 400,
-        "settlerPopulation": 3,
+        "startingGold": 25,
+        "startingCulture": 0,
+        "settlerPopulation": 1,
         "settlerBuildings": [
             "Monument",
             "Granary",
@@ -146,7 +146,13 @@
             "Machu Picchu",
             "Angkor Wat",
             "Alhambra",
-            "Notre Dame"
+            "Notre Dame",
+            "Big Ben",
+            "The Louvre",
+            "Bradenburg Gate",
+            "Eiffel Tower",
+            "Neuschwanstein",
+            "Cristo Redentor"
         ],
         "baseUnitBuyCost": 400,
         "embarkDefense": 10,
@@ -158,8 +164,7 @@
         ],
         "uniques": [
             "May not generate great prophet equivalents naturally",
-            "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Starting in this era disables religion"
+            "May buy [Great Prophet] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])"
         ],
         "civilopediaText": [
             {
