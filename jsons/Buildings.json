@@ -843,8 +843,7 @@
 			"[+2 Science] from all [Production] buildings <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -858,8 +857,7 @@
 			"[+1 Science] from [Ocean] tiles [in all cities] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -872,8 +870,7 @@
 			"[+4 Science] from [Supply Route] tiles [in all cities] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -886,8 +883,7 @@
 			"[+4 Science] from [Industry] tiles [in all cities] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -900,8 +896,7 @@
 			"[+10]% [Science] from every [Hospital] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -914,8 +909,7 @@
 			"[Gold] cost of purchasing [Atomic Bomb] units [-50]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -929,8 +923,7 @@
 			"[+10]% [Food] from every [Medical Lab] <during the [Information era]>",
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -942,8 +935,7 @@
 			"Comment [+1 Power provided by Solar Farm, Wind Farm and Offshore Wind Farm]",
 			"Only available <during the [Information era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -957,8 +949,7 @@
 			"[+5 Production] from [Offshore Wind Farm] tiles [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -973,8 +964,7 @@
 			"[+100]% Production when constructing [Energy Reactor] buildings [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Scientist Perk]>",
-			"Consumes [1] [Scientist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Scientist Perk]"
 		]
 	},
 	{
@@ -988,8 +978,7 @@
 			"[+5]% [Culture] from every [Museum] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1002,8 +991,7 @@
 			"[+15]% [Culture] <while the empire is happy> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1016,8 +1004,7 @@
 			"Provides [1] [Fossil]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1031,8 +1018,7 @@
 			"[+15]% [Culture] from every [Public School] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1045,8 +1031,7 @@
 			"[+50]% Yield from every [Concert Venue] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1058,8 +1043,7 @@
 			"[+50]% [Culture] <in cities with a [Stadium]> <when not at war> <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1072,8 +1056,7 @@
 			"[+25]% [Culture] from every [Public School] <during the [Information era]>",
 			"Only available <during the [Information era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1087,8 +1070,7 @@
 			"[10]% of excess happiness converted to [Culture]",
 			"Only available <during the [Information era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1100,8 +1082,7 @@
 			"[+3 Culture, +3 Faith] from every [Wonder]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1114,8 +1095,7 @@
 			"[+1 Culture] from every specialist [in all cities]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Artist Perk]>",
-			"Consumes [1] [Artist Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Artist Perk]"
 		]
 	},
 	{
@@ -1128,8 +1108,7 @@
 			"Gain a free [Factory] [in capital]",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1141,8 +1120,7 @@
 			"Gain a free [Free Iron] [in all cities]",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1156,8 +1134,7 @@
 			"[+5]% Strength <for [Air] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1169,8 +1146,7 @@
 			"Gain a free [Free Oil] [in all cities]",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1183,8 +1159,7 @@
 			"Provides [4] [Power]",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1198,8 +1173,7 @@
 			"[Gold] cost of purchasing [Architect] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1214,8 +1188,7 @@
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1227,8 +1200,7 @@
 			"Gain a free [Free Power] [in all cities]",
 			"Only available <during the [Information era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1242,8 +1214,7 @@
 			"[+25]% Strength <for [Bio-Infantry] units>",
 			"Only available <during the [Future era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1257,8 +1228,7 @@
 			"[+25]% Strength <for [Combat Robot] units>",
 			"Only available <during the [Future era]>",
 			"Only available <with [Engineer Perk]>",
-			"Consumes [1] [Engineer Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Engineer Perk]"
 		]
 	},
 	{
@@ -1272,8 +1242,7 @@
 			"[-50]% Gold cost of acquiring tiles [in all cities] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1286,8 +1255,7 @@
 			"[+1] Movement <for [Civilian] units> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		],
 		"greatPersonPoints": {
 			"Great Merchant": 3
@@ -1303,8 +1271,7 @@
 			"[Gold] cost of purchasing [Military] units [-15]% <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1318,8 +1285,7 @@
 			"[+10]% [Gold] from every [Stadium] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1333,8 +1299,7 @@
 			"[Gold] cost of purchasing [Corporate] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1348,8 +1313,7 @@
 			"Gifts of Gold to City-States generate [50]% more Influence <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1362,8 +1326,7 @@
 			"[+25]% [Gold] from every [Stock Exchange] <during the [Information era]>",
 			"Only available <during the [Information era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1375,8 +1338,7 @@
 			"[+1 Gold] per [2] population [in all cities]",
 			"Only available  <during the [Information era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1390,8 +1352,7 @@
 			"[+1 Food, +2 Gold] from every [Ocean]",
 			"Only available  <during the [Future era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1404,8 +1365,7 @@
 			"Production to [Gold] conversion in cities changed by [+25]%",
 			"Only available  <during the [Future era]>",
 			"Only available <with [Merchant Perk]>",
-			"Consumes [1] [Merchant Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Merchant Perk]"
 		]
 	},
 	{
@@ -1418,8 +1378,7 @@
 			"[+20]% [Faith] from every [Hospital] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1431,8 +1390,7 @@
 			"[+4 Faith, +2 Happiness] from all [Faith] buildings <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1445,8 +1403,7 @@
 			"[+25]% [Gold] from every [Temple] <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1459,8 +1416,7 @@
 			"May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1473,8 +1429,7 @@
 			"[+1 Culture] from all [Faith] buildings <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1488,8 +1443,7 @@
 			"[Faith] cost of purchasing [Inquisitor] units [-50]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1502,8 +1456,7 @@
 			"[Faith] cost of purchasing [All] units [-15]% <during the [Information era]>",
 			"Only available <during the [Information era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1515,8 +1468,7 @@
 			"[+50]% [Faith] [in all cities] <when not at war>",
 			"Only available <during the [Information era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1529,8 +1481,7 @@
 			"[+4 Faith, +4 Gold] from every [Great Improvement]",
 			"Only available <during the [Future era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1542,8 +1493,7 @@
 			"[+20]% Strength <for [All] units> <when fighting in [Foreign Land] tiles>",
 			"Only available <during the [Future era]>",
 			"Only available <with [Prophet Perk]>",
-			"Consumes [1] [Prophet Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [Prophet Perk]"
 		]
 	},
 	{
@@ -1557,8 +1507,7 @@
 			"[+8 Science, +8 Production] from [Citadel] tiles [in all cities] <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1571,8 +1520,7 @@
 			"[+17]% Strength <for [Military] units> <vs cities> <during the [Industrial era]>",
 			"Only available <during the [Industrial era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1585,8 +1533,7 @@
 			"[+10]% Strength <for [Military] units> <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1599,8 +1546,7 @@
 			"[Gold] cost of purchasing [{Water} {Military}] units [-25]% <during the [Modern era]>",
 			"Only available <during the [Modern era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1614,8 +1560,7 @@
 			"[+16 Gold] from [Citadel] tiles [in all cities] <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1628,8 +1573,7 @@
 			"[Gold] cost of purchasing [{Air} {Military}] units [-25]% <during the [Atomic era]>",
 			"Only available <during the [Atomic era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1643,8 +1587,7 @@
 			"[+33]% Strength <for [Support] units> <during the [Information era]>",
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1657,8 +1600,7 @@
 			"Provides [2] [Aluminum]",
 			"Only available <during the [Information era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1671,8 +1613,7 @@
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
@@ -1685,8 +1626,7 @@
 			"Provides [3] [Composites]",
 			"Only available <during the [Future era]>",
 			"Only available <with [General Perk]>",
-			"Consumes [1] [General Perk]",
-			"[-2 Culture] [in this city] <after adopting [Constitution]>"
+			"Consumes [1] [General Perk]"
 		]
 	},
 	{
