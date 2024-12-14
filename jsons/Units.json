@@ -81,8 +81,6 @@
 			"Support Unit"
 		],
 		"uniques": [
-			"All adjacent units heal [+10] HP when healing <before adopting [Collectivization]>",
-			"All adjacent units heal [+20] HP when healing <after adopting [Collectivization]>",
 			"Uncapturable",
 			"Never appears as a Barbarian unit"
 		]
@@ -788,8 +786,6 @@
 			"Support Unit"
 		],
 		"uniques": [
-			"All adjacent units heal [+15] HP when healing <before adopting [Collectivization]>",
-			"All adjacent units heal [+30] HP when healing <after adopting [Collectivization]>",
 			"Uncapturable",
 			"Never appears as a Barbarian unit"
 		]
@@ -1217,8 +1213,6 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
-			"[+15]% Strength bonus for [Military] units within [2] tiles <before adopting [Propaganda]>",
-			"[+30]% Strength bonus for [Military] units within [2] tiles <after adopting [Propaganda]>",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Great Person - [War]",
 			"Unbuildable",
@@ -1233,8 +1227,6 @@
 		"replaces": "Great General",
 		"uniques": [
 			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
-			"[+15]% Strength bonus for [Military] units within [2] tiles <before adopting [Propaganda]>",
-			"[+30]% Strength bonus for [Military] units within [2] tiles <after adopting [Propaganda]>",
 			"All adjacent units heal [+15] HP when healing",
 			"[+15] HP when healing",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
